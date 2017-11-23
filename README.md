@@ -1,4 +1,6 @@
 # pdf-reminder-simple
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ardean/pdf-reminder-simple.svg)](https://greenkeeper.io/)
 [![NPM Version][npm-image]][downloads-url] [![NPM Downloads][downloads-image]][downloads-url]
 
 **A simple pdf reminder template**
